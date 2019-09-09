@@ -1,0 +1,14 @@
+body {
+color: red;
+background: rgb(110,250,0); 
+} 
+
+hr {
+    background: #fafad2;
+    height: 2px;
+    border: aqua;
+    background-color: tomato;
+
+
+
+}
