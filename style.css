@@ -1,14 +1,33 @@
-body {
+body{
 color: red;
-background: rgb(110,250,0); 
+background: #fafad2;
+border: red
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 26px;
+
+
+
 } 
 
-hr {
-    background: #fafad2;
-    height: 2px;
-    border: aqua;
-    background-color: tomato;
+img{
+width: 300px    
+border: 200px darkred;
+padding: 50px;
 
+}
+
+
+
+
+
+
+hr{
+    height: 9px;
+    background-color: darkred;
+}
+
+ul{
+list-style-type: lower-roman;
 
 
 }
